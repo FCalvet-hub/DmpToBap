@@ -1,0 +1,114 @@
+2022-07-04 15:27:33,386 INFO [SCSVR_handler:70:17732] Nueva conexion desde ('192.168.0.229', 56200)
+2022-07-04 15:27:33,390 INFO [SCSVR_handler:32:22396] Mensaje recibido desde ('192.168.0.229', 56200) payload: b'00001 1546 Za\\066\\t "BU\\z 003"TESTPANEL       \\a 002"AREA2           \\ee"NO\\\r'
+2022-07-04 15:27:33,391 DEBUG [serial3tocid:115:22396] Mensaje a analizar: 00001 1546 Za\066\t "BU\z 003"TESTPANEL       \a 002"AREA2           \ee"NO\
+2022-07-04 15:27:33,392 INFO [SCSVR_handler:35:22396] Traduccion a CID: 15461811300200315
+2022-07-04 15:27:33,392 INFO [SCSVR_handler:36:22396] Traduccion a CID: 15461811300200315
+2022-07-04 15:27:33,392 DEBUG [SCSVR_handler:54:17136] Mensaje enviado: b'\x06' a ('192.168.0.229', 56200)
+2022-07-04 15:27:40,466 INFO [SCSVR_handler:32:22396] Mensaje recibido desde ('192.168.0.229', 56200) payload: b'00001    0 S99\r'
+2022-07-04 15:27:40,467 DEBUG [serial3tocid:115:22396] Mensaje a analizar: 00001    0 S99
+2022-07-04 15:27:40,467 ERROR [serial3tocid:206:22396] Error de valor: substring not found
+2022-07-04 15:27:40,467 INFO [SCSVR_handler:35:22396] Traduccion a CID: None
+2022-07-04 15:27:40,468 INFO [SCSVR_handler:36:22396] Traduccion a CID: None
+2022-07-04 15:27:40,468 DEBUG [SCSVR_handler:54:17136] Mensaje enviado: b'\x06' a ('192.168.0.229', 56200)
+2022-07-04 15:27:52,684 INFO [SCSVR_handler:32:22396] Mensaje recibido desde ('192.168.0.229', 56200) payload: b'00001 1546 Za\\043\\t "PN\\z 001"ZONA1           \\ee"NO\\\r'
+2022-07-04 15:27:52,685 DEBUG [serial3tocid:115:22396] Mensaje a analizar: 00001 1546 Za\043\t "PN\z 001"ZONA1           \ee"NO\
+2022-07-04 15:27:52,685 INFO [SCSVR_handler:35:22396] Traduccion a CID: 15461811200000110
+2022-07-04 15:27:52,685 INFO [SCSVR_handler:36:22396] Traduccion a CID: 15461811200000110
+2022-07-04 15:27:52,685 DEBUG [SCSVR_handler:54:17136] Mensaje enviado: b'\x06' a ('192.168.0.229', 56200)
+2022-07-04 15:27:53,711 INFO [SCSVR_handler:32:22396] Mensaje recibido desde ('192.168.0.229', 56200) payload: b'00001 1546 Zr\\043\\t "PN\\z 001"ZONA1           \\ee"NO\\\r'
+2022-07-04 15:27:53,712 DEBUG [serial3tocid:115:22396] Mensaje a analizar: 00001 1546 Zr\043\t "PN\z 001"ZONA1           \ee"NO\
+2022-07-04 15:27:53,712 INFO [SCSVR_handler:35:22396] Traduccion a CID: 1546183120000018
+2022-07-04 15:27:53,712 INFO [SCSVR_handler:36:22396] Traduccion a CID: 1546183120000018
+2022-07-04 15:27:53,713 DEBUG [SCSVR_handler:54:17136] Mensaje enviado: b'\x06' a ('192.168.0.229', 56200)
+2022-07-04 15:27:54,718 INFO [SCSVR_handler:32:22396] Mensaje recibido desde ('192.168.0.229', 56200) payload: b'00001 1546 Za\\043\\t "PN\\z 002"ZONA2           \\ee"NO\\\r'
+2022-07-04 15:27:54,719 DEBUG [serial3tocid:115:22396] Mensaje a analizar: 00001 1546 Za\043\t "PN\z 002"ZONA2           \ee"NO\
+2022-07-04 15:27:54,719 INFO [SCSVR_handler:35:22396] Traduccion a CID: 1546181120000029
+2022-07-04 15:27:54,720 INFO [SCSVR_handler:36:22396] Traduccion a CID: 1546181120000029
+2022-07-04 15:27:54,720 DEBUG [SCSVR_handler:54:17136] Mensaje enviado: b'\x06' a ('192.168.0.229', 56200)
+2022-07-04 15:27:56,764 INFO [SCSVR_handler:32:22396] Mensaje recibido desde ('192.168.0.229', 56200) payload: b'00001 1546 Zr\\043\\t "PN\\z 002"ZONA2           \\ee"NO\\\r'
+2022-07-04 15:27:56,765 DEBUG [serial3tocid:115:22396] Mensaje a analizar: 00001 1546 Zr\043\t "PN\z 002"ZONA2           \ee"NO\
+2022-07-04 15:27:56,765 INFO [SCSVR_handler:35:22396] Traduccion a CID: 1546183120000027
+2022-07-04 15:27:56,765 INFO [SCSVR_handler:36:22396] Traduccion a CID: 1546183120000027
+2022-07-04 15:27:56,766 DEBUG [SCSVR_handler:54:17136] Mensaje enviado: b'\x06' a ('192.168.0.229', 56200)
+2022-07-04 15:28:32,299 INFO [SCSVR_handler:32:22396] Mensaje recibido desde ('192.168.0.229', 56200) payload: b'00001 1546 Za\\066\\t "BU\\z 004"ZONA4           \\a 032"AREASILENT      \\ee"NO\\\r'
+2022-07-04 15:28:32,300 DEBUG [serial3tocid:115:22396] Mensaje a analizar: 00001 1546 Za\066\t "BU\z 004"ZONA4           \a 032"AREASILENT      \ee"NO\
+2022-07-04 15:28:32,301 INFO [SCSVR_handler:35:22396] Traduccion a CID: 1546181130320046
+2022-07-04 15:28:32,301 INFO [SCSVR_handler:36:22396] Traduccion a CID: 1546181130320046
+2022-07-04 15:28:32,301 DEBUG [SCSVR_handler:54:17136] Mensaje enviado: b'\x06' a ('192.168.0.229', 56200)
+2022-07-04 15:28:33,315 INFO [SCSVR_handler:32:22396] Mensaje recibido desde ('192.168.0.229', 56200) payload: b'00001 1546 Zr\\066\\t "BU\\z 004"ZONA4           \\a 032"AREASILENT      \\ee"NO\\\r'
+2022-07-04 15:28:33,316 DEBUG [serial3tocid:115:22396] Mensaje a analizar: 00001 1546 Zr\066\t "BU\z 004"ZONA4           \a 032"AREASILENT      \ee"NO\
+2022-07-04 15:28:33,316 INFO [SCSVR_handler:35:22396] Traduccion a CID: 1546183130320044
+2022-07-04 15:28:33,317 INFO [SCSVR_handler:36:22396] Traduccion a CID: 1546183130320044
+2022-07-04 15:28:33,317 DEBUG [SCSVR_handler:54:17136] Mensaje enviado: b'\x06' a ('192.168.0.229', 56200)
+2022-07-04 15:28:40,493 INFO [SCSVR_handler:32:22396] Mensaje recibido desde ('192.168.0.229', 56200) payload: b'00001    0 S99\r'
+2022-07-04 15:28:40,494 DEBUG [serial3tocid:115:22396] Mensaje a analizar: 00001    0 S99
+2022-07-04 15:28:40,494 ERROR [serial3tocid:206:22396] Error de valor: substring not found
+2022-07-04 15:28:40,494 INFO [SCSVR_handler:35:22396] Traduccion a CID: None
+2022-07-04 15:28:40,494 INFO [SCSVR_handler:36:22396] Traduccion a CID: None
+2022-07-04 15:28:40,494 DEBUG [SCSVR_handler:54:17136] Mensaje enviado: b'\x06' a ('192.168.0.229', 56200)
+2022-07-04 15:29:33,218 INFO [SCSVR_handler:32:22396] Mensaje recibido desde ('192.168.0.229', 56200) payload: b'00001 1546 Zr\\066\\t "BU\\z 003"TESTPANEL       \\a 002"AREA2           \\ee"NO\\\r'
+2022-07-04 15:29:33,219 DEBUG [serial3tocid:115:22396] Mensaje a analizar: 00001 1546 Zr\066\t "BU\z 003"TESTPANEL       \a 002"AREA2           \ee"NO\
+2022-07-04 15:29:33,220 INFO [SCSVR_handler:35:22396] Traduccion a CID: 15461831300200313
+2022-07-04 15:29:33,220 INFO [SCSVR_handler:36:22396] Traduccion a CID: 15461831300200313
+2022-07-04 15:29:33,220 DEBUG [SCSVR_handler:54:17136] Mensaje enviado: b'\x06' a ('192.168.0.229', 56200)
+2022-07-04 15:30:07,887 INFO [SCSVR_handler:32:22396] Mensaje recibido desde ('192.168.0.229', 56200) payload: b'00001    0 S99\r'
+2022-07-04 15:30:07,888 DEBUG [serial3tocid:115:22396] Mensaje a analizar: 00001    0 S99
+2022-07-04 15:30:07,888 ERROR [serial3tocid:206:22396] Error de valor: substring not found
+2022-07-04 15:30:07,888 INFO [SCSVR_handler:35:22396] Traduccion a CID: None
+2022-07-04 15:30:07,888 INFO [SCSVR_handler:36:22396] Traduccion a CID: None
+2022-07-04 15:30:07,888 DEBUG [SCSVR_handler:54:17136] Mensaje enviado: b'\x06' a ('192.168.0.229', 56200)
+2022-07-04 15:30:59,423 INFO [SCSVR_handler:32:22396] Mensaje recibido desde ('192.168.0.229', 56200) payload: b'00001 1546 Za\\066\\t "BU\\z 003"TESTPANEL       \\a 002"AREA2           \\ee"NO\\\r'
+2022-07-04 15:30:59,424 DEBUG [serial3tocid:115:22396] Mensaje a analizar: 00001 1546 Za\066\t "BU\z 003"TESTPANEL       \a 002"AREA2           \ee"NO\
+2022-07-04 15:30:59,425 INFO [SCSVR_handler:35:22396] Traduccion a CID: 15461811300200315
+2022-07-04 15:30:59,425 INFO [SCSVR_handler:36:22396] Traduccion a CID: 15461811300200315
+2022-07-04 15:30:59,426 DEBUG [SCSVR_handler:54:17136] Mensaje enviado: b'\x06' a ('192.168.0.229', 56200)
+2022-07-04 15:31:17,748 INFO [SCSVR_handler:32:22396] Mensaje recibido desde ('192.168.0.229', 56200) payload: b'00001    0 S99\r'
+2022-07-04 15:31:17,749 DEBUG [serial3tocid:115:22396] Mensaje a analizar: 00001    0 S99
+2022-07-04 15:31:17,749 ERROR [serial3tocid:206:22396] Error de valor: substring not found
+2022-07-04 15:31:17,749 INFO [SCSVR_handler:35:22396] Traduccion a CID: None
+2022-07-04 15:31:17,749 INFO [SCSVR_handler:36:22396] Traduccion a CID: None
+2022-07-04 15:31:17,749 DEBUG [SCSVR_handler:54:17136] Mensaje enviado: b'\x06' a ('192.168.0.229', 56200)
+2022-07-04 15:31:56,327 INFO [SCSVR_handler:32:22396] Mensaje recibido desde ('192.168.0.229', 56200) payload: b'00001 1546 Zr\\066\\t "BU\\z 003"TESTPANEL       \\a 002"AREA2           \\ee"NO\\\r'
+2022-07-04 15:31:56,328 DEBUG [serial3tocid:115:22396] Mensaje a analizar: 00001 1546 Zr\066\t "BU\z 003"TESTPANEL       \a 002"AREA2           \ee"NO\
+2022-07-04 15:31:56,329 INFO [SCSVR_handler:35:22396] Traduccion a CID: 15461831300200313
+2022-07-04 15:31:56,329 INFO [SCSVR_handler:36:22396] Traduccion a CID: 15461831300200313
+2022-07-04 15:31:56,329 DEBUG [SCSVR_handler:54:17136] Mensaje enviado: b'\x06' a ('192.168.0.229', 56200)
+2022-07-04 15:32:17,750 INFO [SCSVR_handler:32:22396] Mensaje recibido desde ('192.168.0.229', 56200) payload: b'00001    0 S99\r'
+2022-07-04 15:32:17,751 DEBUG [serial3tocid:115:22396] Mensaje a analizar: 00001    0 S99
+2022-07-04 15:32:17,751 ERROR [serial3tocid:206:22396] Error de valor: substring not found
+2022-07-04 15:32:17,751 INFO [SCSVR_handler:35:22396] Traduccion a CID: None
+2022-07-04 15:32:17,751 INFO [SCSVR_handler:36:22396] Traduccion a CID: None
+2022-07-04 15:32:17,751 DEBUG [SCSVR_handler:54:17136] Mensaje enviado: b'\x06' a ('192.168.0.229', 56200)
+2022-07-04 15:33:17,768 INFO [SCSVR_handler:32:22396] Mensaje recibido desde ('192.168.0.229', 56200) payload: b'00001    0 S99\r'
+2022-07-04 15:33:17,769 DEBUG [serial3tocid:115:22396] Mensaje a analizar: 00001    0 S99
+2022-07-04 15:33:17,769 ERROR [serial3tocid:206:22396] Error de valor: substring not found
+2022-07-04 15:33:17,769 INFO [SCSVR_handler:35:22396] Traduccion a CID: None
+2022-07-04 15:33:17,770 INFO [SCSVR_handler:36:22396] Traduccion a CID: None
+2022-07-04 15:33:17,770 DEBUG [SCSVR_handler:54:17136] Mensaje enviado: b'\x06' a ('192.168.0.229', 56200)
+2022-07-04 15:33:22,674 INFO [SCSVR_handler:32:22396] Mensaje recibido desde ('192.168.0.229', 56200) payload: b'00001 1546 Za\\066\\t "BU\\z 003"TESTPANEL       \\a 002"AREA2           \\ee"NO\\\r'
+2022-07-04 15:33:22,675 DEBUG [serial3tocid:115:22396] Mensaje a analizar: 00001 1546 Za\066\t "BU\z 003"TESTPANEL       \a 002"AREA2           \ee"NO\
+2022-07-04 15:33:22,676 INFO [SCSVR_handler:35:22396] Traduccion a CID: 15461811300200315
+2022-07-04 15:33:22,676 INFO [SCSVR_handler:36:22396] Traduccion a CID: 15461811300200315
+2022-07-04 15:33:22,676 DEBUG [SCSVR_handler:54:17136] Mensaje enviado: b'\x06' a ('192.168.0.229', 56200)
+2022-07-04 15:34:17,769 INFO [SCSVR_handler:32:22396] Mensaje recibido desde ('192.168.0.229', 56200) payload: b'00001    0 S99\r'
+2022-07-04 15:34:17,770 DEBUG [serial3tocid:115:22396] Mensaje a analizar: 00001    0 S99
+2022-07-04 15:34:17,770 ERROR [serial3tocid:206:22396] Error de valor: substring not found
+2022-07-04 15:34:17,770 INFO [SCSVR_handler:35:22396] Traduccion a CID: None
+2022-07-04 15:34:17,770 INFO [SCSVR_handler:36:22396] Traduccion a CID: None
+2022-07-04 15:34:17,770 DEBUG [SCSVR_handler:54:17136] Mensaje enviado: b'\x06' a ('192.168.0.229', 56200)
+2022-07-04 15:34:20,690 INFO [SCSVR_handler:32:22396] Mensaje recibido desde ('192.168.0.229', 56200) payload: b'00001 1546 Zr\\066\\t "BU\\z 003"TESTPANEL       \\a 002"AREA2           \\ee"NO\\\r'
+2022-07-04 15:34:20,691 DEBUG [serial3tocid:115:22396] Mensaje a analizar: 00001 1546 Zr\066\t "BU\z 003"TESTPANEL       \a 002"AREA2           \ee"NO\
+2022-07-04 15:34:20,692 INFO [SCSVR_handler:35:22396] Traduccion a CID: 15461831300200313
+2022-07-04 15:34:20,692 INFO [SCSVR_handler:36:22396] Traduccion a CID: 15461831300200313
+2022-07-04 15:34:20,692 DEBUG [SCSVR_handler:54:17136] Mensaje enviado: b'\x06' a ('192.168.0.229', 56200)
+2022-07-04 15:35:40,047 INFO [SCSVR_handler:32:22396] Mensaje recibido desde ('192.168.0.229', 56200) payload: b'00001    0 S99\r'
+2022-07-04 15:35:40,048 DEBUG [serial3tocid:115:22396] Mensaje a analizar: 00001    0 S99
+2022-07-04 15:35:40,048 ERROR [serial3tocid:206:22396] Error de valor: substring not found
+2022-07-04 15:35:40,048 INFO [SCSVR_handler:35:22396] Traduccion a CID: None
+2022-07-04 15:35:40,048 INFO [SCSVR_handler:36:22396] Traduccion a CID: None
+2022-07-04 15:35:40,049 DEBUG [SCSVR_handler:54:17136] Mensaje enviado: b'\x06' a ('192.168.0.229', 56200)
+2022-07-04 15:35:47,092 INFO [SCSVR_handler:32:22396] Mensaje recibido desde ('192.168.0.229', 56200) payload: b'00001 1546 Za\\066\\t "BU\\z 003"TESTPANEL       \\a 002"AREA2           \\ee"NO\\\r'
+2022-07-04 15:35:47,093 DEBUG [serial3tocid:115:22396] Mensaje a analizar: 00001 1546 Za\066\t "BU\z 003"TESTPANEL       \a 002"AREA2           \ee"NO\
+2022-07-04 15:35:47,093 INFO [SCSVR_handler:35:22396] Traduccion a CID: 15461811300200315
+2022-07-04 15:35:47,094 INFO [SCSVR_handler:36:22396] Traduccion a CID: 15461811300200315
+2022-07-04 15:35:47,094 DEBUG [SCSVR_handler:54:17136] Mensaje enviado: b'\x06' a ('192.168.0.229', 56200)

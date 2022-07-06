@@ -1,0 +1,10 @@
+Za\028\t "EM\z ***"MEDICAL\
+Za\031\t "EM\z ***"EMERGENCY \
+Za\036\t "EM\z ***"FAIL TO REPORT \
+Za\026\t "FI\z ***"FIRE \
+Za\027\t "FI\z ***"SMOKE \
+Za\032\t "FI\z ***"COMBUSTION \
+Za\031\t "FI\z ***"WATERFLOW \
+Za\035\t "FI\z ***"HEAT DETECTOR \
+Za\034\t "FI\z ***"PULL STATION \
+Za\035\t "FI\z ***"DUCT DETECTOR \

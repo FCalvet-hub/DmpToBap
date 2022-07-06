@@ -1,0 +1,450 @@
+Za\037\t "EM\z ***"MEDICAL\
+Za\037\t "EM\z ***"EMERGENCY \
+Za\037\t "EM\z ***"FAIL TO REPORT \
+Za\037\t "FI\z ***"FIRE \
+Za\037\t "FI\z ***"SMOKE \
+Za\037\t "FI\z ***"COMBUSTION \
+Za\037\t "FI\z ***"WATERFLOW \
+Za\037\t "FI\z ***"HEAT DETECTOR \
+Za\037\t "FI\z ***"PULL STATION \
+Za\037\t "FI\z ***"DUCT DETECTOR \
+Za\037\t "FI\z ***"FLAME DETECTOR \
+Za\037\t "FI\z ***"NEAR ALARM \
+Za\037\t "PN\z ***"PANIC \
+Za\037\t "PN\z ***"DURESS \
+Za\037\t "PN\z ***"SILENT \
+Za\037\t "PN\z ***"AUDIBLE\
+Za\037\t "PN\z ***"DURESS W/ACCESS \
+Za\037\t "PN\z ***"DURESS WO/ACCESS\
+Za\037\t "BU\z ***"BURGLARY\
+Za\037\t "BU\z ***"PERIMETER \
+Za\037\t "BU\z ***"INTERIOR\
+Za\037\t "BU\z ***"24 HR (SAFE) \
+Za\037\t "BU\z ***"ENTRY/EXIT \
+Za\037\t "BU\z ***"DAY/NIGHT \
+Za\037\t "BU\z ***"OUTDOOR\
+Za\037\t "BU\z ***"TAMPER \
+Za\037\t "BU\z ***"NEAR ALARM \
+Za\037\t "BU\z ***"INTRUSION VERIFY\
+Za\037\t "SV\z ***"GENERAL ALARM \
+Za\037\t "SV\z ***"POLLING LOOP OPN\
+Za\037\t "SV\z ***"POLLING LOOP SHR\
+Za\037\t "SV\z ***"EXP MODULE FAIL \
+Za\037\t "SV\z ***"SENSOR TAMPER \
+Za\037\t "SV\z ***"EXP MODULE TMPR \
+Za\037\t "BU\z ***"SILENT BURGLARY \
+Za\037\t "SV\z ***"SENSOR SUPV \
+Za\037\t "SV\z ***"24 HR NON-BURG \
+Za\037\t "SV\z ***"GAS DETECTOR \
+Za\037\t "SV\z ***"REFRIGERATION \
+Za\037\t "SV\z ***"LOSS OF HEAT \
+Za\037\t "SV\z ***"WATER LEAKAGE \
+Za\037\t "SV\z ***"FOIL BREAK \
+Za\037\t "SV\z ***"DAY TROUBLE \
+Za\037\t "SV\z ***"LOW GAS LEVEL \
+Za\037\t "SV\z ***"HIGH TEMP \
+Za\037\t "SV\z ***"LOW TEMP\
+Za\037\t "SV\z ***"LOW AIR FLOW \
+Za\037\t "SV\z ***"CO DETECTOR \
+Za\037\t "SV\z ***"TANK LEVEL \
+Za\037\t "SV\z ***"FIRE SUPERVISORY\
+Za\037\t "SV\z ***"LOW WATER PRESS \
+Za\037\t "SV\z ***"LOW CO2\
+Za\037\t "SV\z ***"GATE VALVE \
+Za\037\t "SV\z ***"LOW WATER LEVEL \
+Za\037\t "SV\z ***"PUMP ACTIVATED \
+Za\037\t "SV\z ***"PUMP FAILURE \
+Zt\037\t "SV\z ***"SYSTEM TROUBLE \
+Zs\012\t 8\
+Zs\012\t 9\
+Zt\037\t "SV\z ***"RAM CKSUM BAD \
+Zt\037\t "SV\z ***"ROM CKSUM BAD \
+Zt\037\t "SV\z ***"SYSTEM RESET \
+Zs\013\t 86\
+Zt\037\t "SV\z ***"SELF- TEST FAIL \
+Zt\037\t "SV\z ***"SYS SHUTDOWN \
+Zs\012\t 8\
+Zt\037\t "SV\z ***"GROUND FAULT \
+Zt\037\t "SV\z ***"BATTERY MISSING \
+Zt\037\t "SV\z ***"POWER SUPLY OVC \
+Zt\037\t "SV\z ***"ENGINEER RST \
+Zt\037\t "SV\z ***"SOUNDER/RELAY \
+Zs\013\t 38\
+Zs\013\t 38\
+Zt\037\t "SV\z ***"ALARM RELAY \
+Zt\037\t "SV\z ***"TROUBLE RELAY \
+Zt\037\t "SV\z ***"REVERSING RLY \
+Zt\037\t "SV\z ***"NOTIFICATION #3 \
+Zt\037\t "SV\z ***"NOTIFICATION #4 \
+Zt\037\t "SV\z ***"SYS PERIPHERAL \
+Zt\037\t "SV\z ***"POLLING LOOP OP \
+Zt\037\t "SV\z ***"POLLING LOOP SH \
+Zt\037\t "SV\z ***"EXP MODULE FAIL \
+Zt\037\t "SV\z ***"REPEATER FAIL \
+Zt\037\t "SV\z ***"LOW PRTR PAPER \
+Zt\037\t "SV\z ***"LCL PRINTER FAIL\
+Zt\037\t "SV\z ***"EXP MODULE DC \
+Zt\037\t "SV\z ***"EXP MODULE BATT \
+Zt\037\t "SV\z ***"EXP MODULE RESET\
+Zt\037\t "SV\z ***"EXP MODULE TMPR \
+Zt\037\t "SV\z ***"EXP MODULE AC \
+Zt\037\t "SV\z ***"EXP MOD SLF TEST\
+Zs\013\t 32\
+Zs\013\t 72\
+Zs\013\t 28\
+Zs\013\t 30\
+Zt\037\t "SV\z ***"LRR XMIT FAIL \
+Zt\037\t "SV\z ***"FAIL TO COMM EVT\
+Zt\037\t "SV\z ***"LRR SUPV FAIL \
+Zt\037\t "SV\z ***"CENTRL POLL FAIL\
+Zt\037\t "SV\z ***"LRR VSWR\
+Za\037\t "SV\z ***"PROTECTION LOOP \
+Za\037\t "SV\z ***"PROTECTION OPEN \
+Za\037\t "SV\z ***"PROTECTION SHRT \
+Zt\037\t "FI\z ***"FIRE TROUBLE \
+Zt\037\t "BU\z ***"EXIT ERROR \
+Zt\037\t "PN\z ***"PANIC TROUBLE \
+Zt\037\t "PN\z ***"HOLDUP TROUBLE \
+Zt\037\t "BU\z ***"SWINGER TROUBLE \
+Zt\037\t "BU\z ***"CROSS- ZONE TRBL \
+Zt\037\t "SV\z ***"SENSOR TROUBLE \
+Zt\037\t "SV\z ***"RF SUPERVISION \
+Zt\037\t "SV\z ***"RPM SUPERVISION \
+Zt\037\t "SV\z ***"SENSOR TAMPER \
+Zt\037\t "SV\z ***"RF LOW BATTERY \
+Zt\037\t "FI\z ***"SMOKE HI SENS \
+Zt\037\t "FI\z ***"SMOKE LO SENS \
+Zt\037\t "BU\z ***"DETECTOR HI SENS\
+Zt\037\t "BU\z ***"DETECTOR LO SENS\
+Zt\037\t "SV\z ***"SELF TEST FAIL \
+Zt\037\t "SV\z ***"WATCH FAIL \
+Zt\037\t "SV\z ***"DRIFT ERROR \
+Zt\037\t "SV\z ***"MAINTENANCE \
+Zq\062\t "OP\u *****"NO AREA NAME \a ***" \
+Zq\062\t "OP\u *****"BY USER \a ***" \
+Zq\062\t "OP\u *****"GROUP\a ***" \
+Zq\062\t "OP\u *****"AUTOMATIC \a ***" \
+Zq\062\t "LA\u *****"LATE\a ***" \
+Zq\062\t "OP\u *****"DEFERRED \a ***" \
+Zq\062\t "OP\u *****"CANCEL\a ***" \
+Zq\062\t "OP\u *****"REMOTE\a ***" \
+Zq\062\t "OP\u *****"QUICK ARM \a ***" \
+Zq\062\t "OP\u *****"KEYSWITCH \a ***" \
+Zq\062\t "OP\u *****"STAY\a ***" \
+Zq\062\t "OP\u *****"KEYSWITCH STAY \a ***" \
+Zq\062\t "OP\u *****"EXCEPTION \a ***" \
+Zq\062\t "OP\u *****"EARLY\a ***" \
+Zq\062\t "OP\u *****"LATE\a ***" \
+Zq\062\t "LA\u *****"FAILED TO OPEN \a ***" \
+Zq\062\t "LA\u *****"FAILED TO CLOSE \a ***" \
+Zq\062\t "OP\u *****"AUTO- ARM FAIL \a ***" \
+Zq\062\t "OP\u *****"PARTIAL ARM \a ***" \
+Zs\013\t 80\
+Zq\062\t "OP\u *****"USER ON PREMISES\a ***" \
+Zs\013\t 78\
+Zq\062\t "OP\u *****"INVALID CODE \a ***"\
+Zq\062\t "OP\u *****"LEGAL CODE \a ***" \
+Zq\062\t "OP\u *****"RE-ARM AFTER ARM\a ***" \
+Zq\062\t "OP\u *****"AUTOARM EXTENDED\a ***" \
+Zt\037\t "SV\z ***"PANIC RESET \
+Zq\062\t "OP\u *****"SERVICEMAN \a ***" \
+Zs\013\t 90\
+Zs\013\t 83\
+Zs\013\t 54\
+Zt\037\t "SV\z ***"SYS SHUTDOWN \
+Zt\037\t "SV\z ***"DIAL SHUTDOWN \
+Zs\013\t 83\
+Zj\039\t "DN\u *****" \
+Zj\039\t "DA\u *****" \
+Za\037\t "BU\z ***"FORCED \
+Zj\039\t "DN\u *****" \
+Zj\039\t "DA\u *****" \
+Zt\037\t "BU\z ***"PROPPED\
+Zt\037\t "BU\z ***"STATUS MONITOR \
+Zt\037\t "BU\z ***"REQUEST TO EXIT \
+Zs\013\t 86\
+Zs\013\t 86\
+Zs\013\t 86\
+Zt\037\t "BU\z ***"ACCESS RLY FAIL \
+Zt\037\t "BU\z ***"ACCESS RTE SHUNT\
+Zt\037\t "BU\z ***"ACCESS DSM SHUNT\
+Zt\037\t "BU\z ***"READER DISABLE \
+Zt\037\t "SV\z ***"SOUNDER DISABLE \
+Zt\037\t "SV\z ***"BELL 1 DISABLE \
+Zt\037\t "SV\z ***"BELL 2 DISABLE \
+Zt\037\t "SV\z ***"RELAY DISABLE \
+Zt\037\t "SV\z ***"TROUBLE DISABLE \
+Zt\037\t "SV\z ***"RVRS RLY DISABLE\
+Zt\037\t "SV\z ***"NOTIFICATION #3 \
+Zt\037\t "SV\z ***"NOTIFICATION #4 \
+Zt\037\t "SV\z ***"MODULE ADD \
+Zt\037\t "SV\z ***"MODULE RMV \
+Zt\037\t "SV\z ***"DIALER DISABLE \
+Zt\037\t "SV\z ***"RADIO DISABLE \
+Zt\037\t "SV\z ***"REMOTE DISABLE \
+Zx\037\t "BL\z ***"ZONE BYPASS \
+Zx\037\t "FI\z ***"FIRE BYPASS \
+Zx\037\t "BU\z ***"24HR ZONE BYPASS\
+Zx\037\t "BU\z ***"BURG BYPASS \
+Zx\037\t "BU\z ***"GROUP BYPASS \
+Zx\037\t "BU\z ***"SWINGER BYPASS \
+Zx\037\t "BU\z ***"ACCESS BYPASS \
+Zx\037\t "BU\z ***"ACCESS BYPASS \
+Zt\037\t "SV\z ***"MANUAL TEST \
+Zs\012\t 7\
+Zt\037\t "SV\z ***"PERIODIC RF TEST\
+Zt\037\t "FI\z ***"FIRE TEST \
+Zt\037\t "BL\z ***"STATUS REPORT \
+Zt\037\t "SV\z ***"LISTEN IN \
+Zs\013\t 66\
+Zs\013\t 88\
+Zk\037\t "SV\z ***"VIDEO ACTIVE \
+Zk\037\t "SV\z ***"TEST OK\
+Zt\037\t "SV\z ***"NOT TESTED \
+Zk\037\t "BU\z ***"WALK TEST \
+Zk\037\t "FI\z ***"WALK TEST \
+Zk\037\t "PN\z ***"WALK TEST \
+Zs\013\t 91\
+Zt\037\t "SV\z ***"EVENT LOG RESET \
+Zt\037\t "SV\z ***"EVENT LOG 50% \
+Zt\037\t "SV\z ***"EVENT LOG 90% \
+Zt\037\t "SV\z ***"EVNT LOG OVRFLOW\
+Zt\037\t "SV\z ***"TIME/DATE RESET \
+Zt\037\t "SV\z ***"TIME/DATE ERROR \
+Zt\037\t "SV\z ***"PGM MODE ENTRY \
+Zt\037\t "SV\z ***"PGM MODE EXIT \
+Zt\037\t "SV\z ***"32HR EVT MARKER \
+Zk\037\t "SV\z ***"SCHEDULE CHG \
+Zk\037\t "SV\z ***"EXC SCHED CHG \
+Zk\037\t "SV\z ***"ACC SCHED CHG \
+Zt\037\t "EM\z ***"SENIOR WATCH \
+Zt\037\t "EM\z ***"LATCH KEY SUPV \
+Zt\037\t "SV\z ***"RESERVED\
+Zt\037\t "SV\z ***"RESERVED\
+Zt\037\t "SV\z ***"RESERVED\
+Zt\037\t "SV\z ***"SYS INACTIVITY \
+Zr\037\t "EM\z ***"MEDICAL\
+Zr\037\t "EM\z ***"EMERGENCY \
+Zr\037\t "EM\z ***"FAIL TO REPORT \
+Zr\037\t "FI\z ***"FIRE \
+Zr\037\t "FI\z ***"SMOKE \
+Zr\037\t "FI\z ***"COMBUSTION \
+Zr\037\t "FI\z ***"WATERFLOW \
+Zr\037\t "FI\z ***"HEAT DETECTOR \
+Zr\037\t "FI\z ***"PULL STATION \
+Zr\037\t "FI\z ***"DUCT DETECTOR \
+Zr\037\t "FI\z ***"FLAME DETECTOR \
+Zr\037\t "FI\z ***"NEAR ALARM \
+Zr\037\t "PN\z ***"PANIC \
+Zr\037\t "PN\z ***"DURESS \
+Zr\037\t "PN\z ***"SILENT \
+Zr\037\t "PN\z ***"AUDIBLE\
+Zr\037\t "PN\z ***"DURESS W/ACCESS \
+Zr\037\t "PN\z ***"DURESS WO/ACCESS\
+Zr\037\t "BU\z ***"BURGLARY\
+Zr\037\t "BU\z ***"PERIMETER \
+Zr\037\t "BU\z ***"INTERIOR\
+Zr\037\t "BU\z ***"24 HR (SAFE) \
+Zr\037\t "BU\z ***"ENTRY/EXIT \
+Zr\037\t "BU\z ***"DAY/NIGHT \
+Zr\037\t "BU\z ***"OUTDOOR\
+Zr\037\t "BU\z ***"TAMPER \
+Zr\037\t "BU\z ***"NEAR ALARM \
+Zr\037\t "BU\z ***"INTRUSION VERIFY\
+Zr\037\t "SV\z ***"GENERAL ALARM \
+Zr\037\t "SV\z ***"POLLING LOOP OPN\
+Zr\037\t "SV\z ***"POLLING LOOP SHR\
+Zr\037\t "SV\z ***"EXP MODULE FAIL \
+Zr\037\t "SV\z ***"SENSOR TAMPER \
+Zr\037\t "SV\z ***"EXP MODULE TMPR \
+Zr\037\t "BU\z ***"SILENT BURGLARY \
+Zr\037\t "SV\z ***"SENSOR SUPV \
+Zr\037\t "SV\z ***"24 HR NON-BURG \
+Zr\037\t "SV\z ***"GAS DETECTOR \
+Zr\037\t "SV\z ***"REFRIGERATION \
+Zr\037\t "SV\z ***"LOSS OF HEAT \
+Zr\037\t "SV\z ***"WATER LEAKAGE \
+Zr\037\t "SV\z ***"FOIL BREAK \
+Zr\037\t "SV\z ***"DAY TROUBLE \
+Zr\037\t "SV\z ***"LOW GAS LEVEL \
+Zr\037\t "SV\z ***"HIGH TEMP \
+Zr\037\t "SV\z ***"LOW TEMP\
+Zr\037\t "SV\z ***"LOW AIR FLOW \
+Zr\037\t "SV\z ***"CO DETECTOR \
+Zr\037\t "SV\z ***"TANK LEVEL \
+Zr\037\t "SV\z ***"FIRE SUPERVISORY\
+Zr\037\t "SV\z ***"LOW WATER PRESS \
+Zr\037\t "SV\z ***"LOW CO2\
+Zr\037\t "SV\z ***"GATE VALVE \
+Zr\037\t "SV\z ***"LOW WATER LEVEL \
+Zr\037\t "SV\z ***"PUMP ACTIVATED \
+Zr\037\t "SV\z ***"PUMP FAILURE \
+Zr\037\t "SV\z ***"SYSTEM TROUBLE \
+Zs\012\t 0\
+Zs\012\t 1\
+Zr\037\t "SV\z ***"RAM CKSUM BAD \
+Zr\037\t "SV\z ***"ROM CKSUM BAD \
+Zr\037\t "SV\z ***"SYSTEM RESET \
+Zs\013\t 86\
+Zr\037\t "SV\z ***"SELF- TEST FAIL \
+Zr\037\t "SV\z ***"SYS SHUTDOWN \
+Zs\012\t 0\
+Zr\037\t "SV\z ***"GROUND FAULT \
+Zr\037\t "SV\z ***"BATTERY MISSING \
+Zr\037\t "SV\z ***"POWER SUPLY OVC \
+Zr\037\t "SV\z ***"ENGINEER RST \
+Zr\037\t "SV\z ***"SOUNDER/RELAY \
+Zs\013\t 39\
+Zs\013\t 39\
+Zr\037\t "SV\z ***"ALARM RELAY \
+Zr\037\t "SV\z ***"TROUBLE RELAY \
+Zr\037\t "SV\z ***"REVERSING RLY \
+Zr\037\t "SV\z ***"NOTIFICATION #3 \
+Zr\037\t "SV\z ***"NOTIFICATION #4 \
+Zr\037\t "SV\z ***"SYS PERIPHERAL \
+Zr\037\t "SV\z ***"POLLING LOOP OP \
+Zr\037\t "SV\z ***"POLLING LOOP SH \
+Zr\037\t "SV\z ***"EXP MODULE FAIL \
+Zr\037\t "SV\z ***"REPEATER FAIL \
+Zr\037\t "SV\z ***"LOW PRTR PAPER \
+Zr\037\t "SV\z ***"LCL PRINTER FAIL\
+Zr\037\t "SV\z ***"EXP MODULE DC \
+Zr\037\t "SV\z ***"EXP MODULE BATT \
+Zr\037\t "SV\z ***"EXP MODULE RESET\
+Zr\037\t "SV\z ***"EXP MODULE TMPR \
+Zr\037\t "SV\z ***"EXP MODULE AC \
+Zr\037\t "SV\z ***"EXP MOD SLF TEST\
+Zs\013\t 89\
+Zs\013\t 73\
+Zs\013\t 29\
+Zs\013\t 31\
+Zr\037\t "SV\z ***"LRR XMIT FAIL \
+Zr\037\t "SV\z ***"FAIL TO COMM EVT\
+Zr\037\t "SV\z ***"LRR SUPV FAIL \
+Zr\037\t "SV\z ***"CENTRL POLL FAIL\
+Zr\037\t "SV\z ***"LRR VSWR\
+Zr\037\t "SV\z ***"PROTECTION LOOP \
+Zr\037\t "SV\z ***"PROTECTION OPEN \
+Zr\037\t "SV\z ***"PROTECTION SHRT \
+Zr\037\t "FI\z ***"FIRE TROUBLE \
+Zr\037\t "BU\z ***"EXIT ERROR \
+Zr\037\t "PN\z ***"PANIC TROUBLE \
+Zr\037\t "PN\z ***"HOLDUP TROUBLE \
+Zr\037\t "BU\z ***"SWINGER TROUBLE \
+Zr\037\t "BU\z ***"CROSS- ZONE TRBL \
+Zr\037\t "SV\z ***"SENSOR TROUBLE \
+Zr\037\t "SV\z ***"RF SUPERVISION \
+Zr\037\t "SV\z ***"RPM SUPERVISION \
+Zr\037\t "SV\z ***"SENSOR TAMPER \
+Zr\037\t "SV\z ***"RF LOW BATTERY \
+Zr\037\t "FI\z ***"SMOKE HI SENS \
+Zr\037\t "FI\z ***"SMOKE LO SENS \
+Zr\037\t "BU\z ***"DETECTOR HI SENS\
+Zr\037\t "BU\z ***"DETECTOR LO SENS\
+Zr\037\t "SV\z ***"SELF TEST FAIL \
+Zr\037\t "SV\z ***"WATCH FAIL \
+Zr\037\t "SV\z ***"DRIFT ERROR \
+Zr\037\t "SV\z ***"MAINTENANCE \
+Zq\062\t "CL\u *****"NO AREA NAME \a ***" \
+Zq\062\t "CL\u *****"BY USER \a ***" \
+Zq\062\t "CL\u *****"GROUP\a ***" \
+Zq\062\t "CL\u *****"AUTOMATIC \a ***" \
+Zq\062\t "LA\u *****"LATE\a ***" \
+Zq\062\t "CL\u *****"DEFERRED \a ***" \
+Zq\062\t "CL\u *****"CANCEL\a ***" \
+Zq\062\t "CL\u *****"REMOTE\a ***" \
+Zq\062\t "CL\u *****"QUICK ARM \a ***" \
+Zq\062\t "CL\u *****"KEYSWITCH \a ***" \
+Zq\062\t "CL\u *****"STAY\a ***" \
+Zq\062\t "CL\u *****"KEYSWITCH STAY \a ***" \
+Zq\062\t "CL\u *****"EXCEPTION \a ***" \
+Zq\062\t "CL\u *****"EARLY\a ***" \
+Zq\062\t "CL\u *****"LATE\a ***" \
+Zq\062\t "LA\u *****"FAILED TO OPEN \a ***" \
+Zq\062\t "LA\u *****"FAILED TO CLOSE \a ***" \
+Zq\062\t "CL\u *****"AUTO- ARM FAIL \a ***" \
+Zq\062\t "CL\u *****"PARTIAL ARM \a ***" \
+Zs\013\t 80\
+Zq\062\t "CL\u *****"USER ON PREMISES\a ***" \
+Zs\013\t 78\
+Zq\062\t "CL\u *****"INVALID CODE \a ***"\
+Zq\062\t "CL\u *****"LEGAL CODE \a ***" \
+Zq\062\t "CL\u *****"RE-ARM AFTER ARM\a ***" \
+Zq\062\t "CL\u *****"AUTOARM EXTENDED\a ***" \
+Zr\037\t "SV\z ***"PANIC RESET \
+Zq\062\t "CL\u *****"SERVICEMAN \a ***" \
+Zs\013\t 90\
+Zs\013\t 83\
+Zs\013\t 54\
+Zr\037\t "SV\z ***"SYS SHUTDOWN \
+Zr\037\t "SV\z ***"DIAL SHUTDOWN \
+Zs\013\t 83\
+Zj\039\t "DN\u *****" \
+Zj\039\t "DA\u *****" \
+Zr\037\t "BU\z ***"FORCED \
+Zj\039\t "DN\u *****" \
+Zj\039\t "DA\u *****" \
+Zr\037\t "BU\z ***"PROPPED\
+Zr\037\t "BU\z ***"STATUS MONITOR \
+Zr\037\t "BU\z ***"REQUEST TO EXIT \
+Zs\013\t 86\
+Zs\013\t 86\
+Zs\013\t 86\
+Zr\037\t "BU\z ***"ACCESS RLY FAIL \
+Zr\037\t "BU\z ***"ACCESS RTE SHUNT\
+Zr\037\t "BU\z ***"ACCESS DSM SHUNT\
+Zr\037\t "BU\z ***"READER DISABLE \
+Zr\037\t "SV\z ***"SOUNDER DISABLE \
+Zr\037\t "SV\z ***"BELL 1 DISABLE \
+Zr\037\t "SV\z ***"BELL 2 DISABLE \
+Zr\037\t "SV\z ***"RELAY DISABLE \
+Zr\037\t "SV\z ***"TROUBLE DISABLE \
+Zr\037\t "SV\z ***"RVRS RLY DISABLE\
+Zr\037\t "SV\z ***"NOTIFICATION #3 \
+Zr\037\t "SV\z ***"NOTIFICATION #4 \
+Zr\037\t "SV\z ***"MODULE ADD \
+Zr\037\t "SV\z ***"MODULE RMV \
+Zr\037\t "SV\z ***"DIALER DISABLE \
+Zr\037\t "SV\z ***"RADIO DISABLE \
+Zr\037\t "SV\z ***"REMOTE DISABLE \
+Zr\037\t "BL\z ***"ZONE BYPASS \
+Zr\037\t "FI\z ***"FIRE BYPASS \
+Zr\037\t "BU\z ***"24HR ZONE BYPASS\
+Zr\037\t "BU\z ***"BURG BYPASS \
+Zr\037\t "BU\z ***"GROUP BYPASS \
+Zr\037\t "BU\z ***"SWINGER BYPASS \
+Zr\037\t "BU\z ***"ACCESS BYPASS \
+Zr\037\t "BU\z ***"ACCESS BYPASS \
+Zr\037\t "SV\z ***"MANUAL TEST \
+Zs\012\t 7\
+Zr\037\t "SV\z ***"PERIODIC RF TEST\
+Zr\037\t "FI\z ***"FIRE TEST \
+Zr\037\t "BL\z ***"STATUS REPORT \
+Zr\037\t "SV\z ***"LISTEN IN \
+Zs\013\t 67\
+Zs\013\t 88\
+Zr\037\t "SV\z ***"VIDEO ACTIVE \
+Zr\037\t "SV\z ***"TEST OK\
+Zr\037\t "SV\z ***"NOT TESTED \
+Zr\037\t "BU\z ***"WALK TEST \
+Zr\037\t "FI\z ***"WALK TEST \
+Zr\037\t "PN\z ***"WALK TEST \
+Zs\013\t 91\
+Zr\037\t "SV\z ***"EVENT LOG RESET \
+Zr\037\t "SV\z ***"EVENT LOG 50% \
+Zr\037\t "SV\z ***"EVENT LOG 90% \
+Zr\037\t "SV\z ***"EVNT LOG OVRFLOW\
+Zr\037\t "SV\z ***"TIME/DATE RESET \
+Zr\037\t "SV\z ***"TIME/DATE ERROR \
+Zr\037\t "SV\z ***"PGM MODE ENTRY \
+Zr\037\t "SV\z ***"PGM MODE EXIT \
+Zr\037\t "SV\z ***"32HR EVT MARKER \
+Zr\037\t "SV\z ***"SCHEDULE CHG \
+Zr\037\t "SV\z ***"EXC SCHED CHG \
+Zr\037\t "SV\z ***"ACC SCHED CHG \
+Zr\037\t "EM\z ***"SENIOR WATCH \
+Zr\037\t "EM\z ***"LATCH KEY SUPV \
+Zr\037\t "SV\z ***"RESERVED\
+Zr\037\t "SV\z ***"RESERVED\
+Zr\037\t "SV\z ***"RESERVED\
+Zr\037\t "SV\z ***"SYS INACTIVITY \

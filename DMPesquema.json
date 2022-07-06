@@ -1,0 +1,1119 @@
+{
+    "Za": {
+        "category": "Zone_type",
+        "name": "Zone Alarm",
+        "type": {
+            "A1": {
+                "CIDEventCode": 140,
+                "enable": true,
+                "name": "Auxiliary 1",
+                "restore": false
+            },
+            "A2": {
+                "CIDEventCode": 140,
+                "enable": true,
+                "name": "Auxiliary 2",
+                "restore": false
+            },
+            "BL": {
+                "CIDEventCode": 140,
+                "enable": true,
+                "name": "Blank",
+                "restore": false
+            },
+            "BU": {
+                "CIDEventCode": 130,
+                "enable": true,
+                "name": "Burglary",
+                "restore": false
+            },
+            "CO": {
+                "CIDEventCode": 140,
+                "enable": true,
+                "name": "Carbon Monoxide",
+                "restore": false
+            },
+            "EM": {
+                "CIDEventCode": 100,
+                "enable": true,
+                "name": "Emergency",
+                "restore": false
+            },
+            "FI": {
+                "CIDEventCode": 110,
+                "enable": true,
+                "name": "Fire",
+                "restore": false
+            },
+            "PN": {
+                "CIDEventCode": 120,
+                "enable": true,
+                "name": "Panic",
+                "restore": false
+            },
+            "SV": {
+                "CIDEventCode": 150,
+                "enable": true,
+                "name": "Supervisory",
+                "restore": false
+            },
+            "VA": {
+                "CIDEventCode": 140,
+                "enable": true,
+                "name": "Video Alarm",
+                "restore": false
+            }
+        }
+    },
+    "Zb": {
+        "category": "Zone_type",
+        "name": "Zone Force",
+        "type": {
+            "A1": {
+                "CIDEventCode": 140,
+                "enable": true,
+                "name": "Auxiliary 1",
+                "restore": false
+            },
+            "A2": {
+                "CIDEventCode": 140,
+                "enable": true,
+                "name": "Auxiliary 2",
+                "restore": false
+            },
+            "BL": {
+                "CIDEventCode": 140,
+                "enable": true,
+                "name": "Blank",
+                "restore": false
+            },
+            "BU": {
+                "CIDEventCode": 130,
+                "enable": true,
+                "name": "Burglary",
+                "restore": false
+            },
+            "CO": {
+                "CIDEventCode": 140,
+                "enable": true,
+                "name": "Carbon Monoxide",
+                "restore": false
+            },
+            "EM": {
+                "CIDEventCode": 100,
+                "enable": true,
+                "name": "Emergency",
+                "restore": false
+            },
+            "FI": {
+                "CIDEventCode": 110,
+                "enable": true,
+                "name": "Fire",
+                "restore": false
+            },
+            "PN": {
+                "CIDEventCode": 120,
+                "enable": true,
+                "name": "Panic",
+                "restore": false
+            },
+            "SV": {
+                "CIDEventCode": 150,
+                "enable": true,
+                "name": "Supervisory",
+                "restore": false
+            },
+            "VA": {
+                "CIDEventCode": 140,
+                "enable": true,
+                "name": "Video Alarm",
+                "restore": false
+            }
+        }
+    },
+    "Zc": {
+        "category": "Real_time_type",
+        "name": "Device Status",
+        "type": {}
+    },
+    "Zd": {
+        "category": "Zone_type",
+        "name": "Zone Low Battery",
+        "type": {
+            "A1": {
+                "CIDEventCode": 140,
+                "enable": true,
+                "name": "Auxiliary 1",
+                "restore": false
+            },
+            "A2": {
+                "CIDEventCode": 140,
+                "enable": true,
+                "name": "Auxiliary 2",
+                "restore": false
+            },
+            "BL": {
+                "CIDEventCode": 140,
+                "enable": true,
+                "name": "Blank",
+                "restore": false
+            },
+            "BU": {
+                "CIDEventCode": 130,
+                "enable": true,
+                "name": "Burglary",
+                "restore": false
+            },
+            "CO": {
+                "CIDEventCode": 140,
+                "enable": true,
+                "name": "Carbon Monoxide",
+                "restore": false
+            },
+            "EM": {
+                "CIDEventCode": 100,
+                "enable": true,
+                "name": "Emergency",
+                "restore": false
+            },
+            "FI": {
+                "CIDEventCode": 110,
+                "enable": true,
+                "name": "Fire",
+                "restore": false
+            },
+            "PN": {
+                "CIDEventCode": 120,
+                "enable": true,
+                "name": "Panic",
+                "restore": false
+            },
+            "SV": {
+                "CIDEventCode": 150,
+                "enable": true,
+                "name": "Supervisory",
+                "restore": false
+            },
+            "VA": {
+                "CIDEventCode": 140,
+                "enable": true,
+                "name": "Video Alarm",
+                "restore": false
+            }
+        }
+    },
+    "Ze": {
+        "category": "Equipment_type",
+        "name": "Equipment",
+        "type": {
+            "AD": {
+                "CIDEventCode": 0,
+                "enable": false,
+                "name": "Add",
+                "restore": false
+            },
+            "AJ": {
+                "CIDEventCode": 0,
+                "enable": false,
+                "name": "Adjust",
+                "restore": false
+            },
+            "CD": {
+                "CIDEventCode": 0,
+                "enable": false,
+                "name": "ContactID",
+                "restore": false
+            },
+            "EE": {
+                "CIDEventCode": 0,
+                "enable": false,
+                "name": "Receiver EEPROM Error - Entire EEPROM",
+                "restore": false
+            },
+            "H1": {
+                "CIDEventCode": 0,
+                "enable": false,
+                "name": "Receiver EEPROM Error - Host Port",
+                "restore": false
+            },
+            "H2": {
+                "CIDEventCode": 0,
+                "enable": false,
+                "name": "Receiver EEPROM Error - Host Port",
+                "restore": false
+            },
+            "LC": {
+                "CIDEventCode": 0,
+                "enable": false,
+                "name": "Receiver EEPROM Error - Line Card",
+                "restore": false
+            },
+            "LG": {
+                "CIDEventCode": 0,
+                "enable": false,
+                "name": "Receiver EEPROM Error - Log",
+                "restore": false
+            },
+            "PR": {
+                "CIDEventCode": 0,
+                "enable": false,
+                "name": "Receiver EEPROM Error - Printer",
+                "restore": false
+            },
+            "RL": {
+                "CIDEventCode": 0,
+                "enable": false,
+                "name": "Replace",
+                "restore": false
+            },
+            "RM": {
+                "CIDEventCode": 0,
+                "enable": false,
+                "name": "Remove",
+                "restore": false
+            },
+            "RP": {
+                "CIDEventCode": 0,
+                "enable": false,
+                "name": "Repair",
+                "restore": false
+            },
+            "SO": {
+                "CIDEventCode": 0,
+                "enable": false,
+                "name": "Receiver EEPROM Error - System Option",
+                "restore": false
+            },
+            "SP": {
+                "CIDEventCode": 0,
+                "enable": false,
+                "name": "Receiver EEPROM Error - Serial Port",
+                "restore": false
+            },
+            "TS": {
+                "CIDEventCode": 0,
+                "enable": false,
+                "name": "Test",
+                "restore": false
+            }
+        }
+    },
+    "Zf": {
+        "category": "Zone_type",
+        "name": "Zone Fail",
+        "type": {
+            "A1": {
+                "CIDEventCode": 140,
+                "enable": true,
+                "name": "Auxiliary 1",
+                "restore": false
+            },
+            "A2": {
+                "CIDEventCode": 140,
+                "enable": true,
+                "name": "Auxiliary 2",
+                "restore": false
+            },
+            "BL": {
+                "CIDEventCode": 140,
+                "enable": true,
+                "name": "Blank",
+                "restore": false
+            },
+            "BU": {
+                "CIDEventCode": 130,
+                "enable": true,
+                "name": "Burglary",
+                "restore": false
+            },
+            "CO": {
+                "CIDEventCode": 140,
+                "enable": true,
+                "name": "Carbon Monoxide",
+                "restore": false
+            },
+            "EM": {
+                "CIDEventCode": 100,
+                "enable": true,
+                "name": "Emergency",
+                "restore": false
+            },
+            "FI": {
+                "CIDEventCode": 110,
+                "enable": true,
+                "name": "Fire",
+                "restore": false
+            },
+            "PN": {
+                "CIDEventCode": 120,
+                "enable": true,
+                "name": "Panic",
+                "restore": false
+            },
+            "SV": {
+                "CIDEventCode": 150,
+                "enable": true,
+                "name": "Supervisory",
+                "restore": false
+            },
+            "VA": {
+                "CIDEventCode": 140,
+                "enable": true,
+                "name": "Video Alarm",
+                "restore": false
+            }
+        }
+    },
+    "Zg": {
+        "category": "Holiday_type",
+        "name": "Holidays",
+        "type": {
+            "HA": {
+                "CIDEventCode": 0,
+                "enable": false,
+                "name": "Holiday Schedule A",
+                "restore": false
+            },
+            "HB": {
+                "CIDEventCode": 0,
+                "enable": false,
+                "name": "Holiday Schedule B",
+                "restore": false
+            },
+            "HC": {
+                "CIDEventCode": 0,
+                "enable": false,
+                "name": "Holiday Schedule C",
+                "restore": false
+            }
+        }
+    },
+    "Zh": {
+        "category": "Zone_type",
+        "name": "Zone Missing",
+        "type": {
+            "A1": {
+                "CIDEventCode": 140,
+                "enable": true,
+                "name": "Auxiliary 1",
+                "restore": false
+            },
+            "A2": {
+                "CIDEventCode": 140,
+                "enable": true,
+                "name": "Auxiliary 2",
+                "restore": false
+            },
+            "BL": {
+                "CIDEventCode": 140,
+                "enable": true,
+                "name": "Blank",
+                "restore": false
+            },
+            "BU": {
+                "CIDEventCode": 130,
+                "enable": true,
+                "name": "Burglary",
+                "restore": false
+            },
+            "CO": {
+                "CIDEventCode": 140,
+                "enable": true,
+                "name": "Carbon Monoxide",
+                "restore": false
+            },
+            "EM": {
+                "CIDEventCode": 100,
+                "enable": true,
+                "name": "Emergency",
+                "restore": false
+            },
+            "FI": {
+                "CIDEventCode": 110,
+                "enable": true,
+                "name": "Fire",
+                "restore": false
+            },
+            "PN": {
+                "CIDEventCode": 120,
+                "enable": true,
+                "name": "Panic",
+                "restore": false
+            },
+            "SV": {
+                "CIDEventCode": 150,
+                "enable": true,
+                "name": "Supervisory",
+                "restore": false
+            },
+            "VA": {
+                "CIDEventCode": 140,
+                "enable": true,
+                "name": "Video Alarm",
+                "restore": false
+            }
+        }
+    },
+    "Zi": {
+        "category": "Tamper_type",
+        "name": "Zone Tamper",
+        "type": {}
+    },
+    "Zj": {
+        "category": "Status_type",
+        "name": "Door Access",
+        "type": {
+            "AA": {
+                "CIDEventCode": 0,
+                "enable": false,
+                "name": "Denied: Armed Area",
+                "restore": false
+            },
+            "AP": {
+                "CIDEventCode": 0,
+                "enable": false,
+                "name": "Denied: Previous Access",
+                "restore": false
+            },
+            "DA": {
+                "CIDEventCode": 0,
+                "enable": false,
+                "name": "Door Access Granted",
+                "restore": false
+            },
+            "DC": {
+                "CIDEventCode": 0,
+                "enable": false,
+                "name": "Door Status: Closed",
+                "restore": false
+            },
+            "DO": {
+                "CIDEventCode": 0,
+                "enable": false,
+                "name": "Door Status: Open",
+                "restore": false
+            },
+            "FO": {
+                "CIDEventCode": 0,
+                "enable": false,
+                "name": "Door Status: Forced Open",
+                "restore": false
+            },
+            "HO": {
+                "CIDEventCode": 0,
+                "enable": false,
+                "name": "Door Status: Held Open",
+                "restore": false
+            },
+            "IA": {
+                "CIDEventCode": 0,
+                "enable": false,
+                "name": "Denied: Invalid Area",
+                "restore": false
+            },
+            "IC": {
+                "CIDEventCode": 0,
+                "enable": false,
+                "name": "Denied: Invalid Code",
+                "restore": false
+            },
+            "IL": {
+                "CIDEventCode": 0,
+                "enable": false,
+                "name": "Denied: Invalid Level",
+                "restore": false
+            },
+            "IN": {
+                "CIDEventCode": 0,
+                "enable": false,
+                "name": "Denied: Inactive User",
+                "restore": false
+            },
+            "IT": {
+                "CIDEventCode": 0,
+                "enable": false,
+                "name": "Denied: Invalid Time",
+                "restore": false
+            },
+            "MO": {
+                "CIDEventCode": 0,
+                "enable": false,
+                "name": "Output Status: Momentary",
+                "restore": false
+            },
+            "OF": {
+                "CIDEventCode": 0,
+                "enable": false,
+                "name": "Output Status: Off",
+                "restore": false
+            },
+            "ON": {
+                "CIDEventCode": 0,
+                "enable": false,
+                "name": "Output Status: On",
+                "restore": false
+            },
+            "PL": {
+                "CIDEventCode": 0,
+                "enable": false,
+                "name": "Output Status: Pulse",
+                "restore": false
+            },
+            "TP": {
+                "CIDEventCode": 0,
+                "enable": false,
+                "name": "Output Status: Temporal",
+                "restore": false
+            },
+            "WP": {
+                "CIDEventCode": 0,
+                "enable": false,
+                "name": "Denied: Wrong PIN",
+                "restore": false
+            }
+        }
+    },
+    "Zk": {
+        "category": "Zone_type",
+        "name": "Zone Verify",
+        "type": {
+            "A1": {
+                "CIDEventCode": 140,
+                "enable": true,
+                "name": "Auxiliary 1",
+                "restore": false
+            },
+            "A2": {
+                "CIDEventCode": 140,
+                "enable": true,
+                "name": "Auxiliary 2",
+                "restore": false
+            },
+            "BL": {
+                "CIDEventCode": 140,
+                "enable": true,
+                "name": "Blank",
+                "restore": false
+            },
+            "BU": {
+                "CIDEventCode": 130,
+                "enable": true,
+                "name": "Burglary",
+                "restore": false
+            },
+            "CO": {
+                "CIDEventCode": 140,
+                "enable": true,
+                "name": "Carbon Monoxide",
+                "restore": false
+            },
+            "EM": {
+                "CIDEventCode": 100,
+                "enable": true,
+                "name": "Emergency",
+                "restore": false
+            },
+            "FI": {
+                "CIDEventCode": 110,
+                "enable": true,
+                "name": "Fire",
+                "restore": false
+            },
+            "PN": {
+                "CIDEventCode": 120,
+                "enable": true,
+                "name": "Panic",
+                "restore": false
+            },
+            "SV": {
+                "CIDEventCode": 150,
+                "enable": true,
+                "name": "Supervisory",
+                "restore": false
+            },
+            "VA": {
+                "CIDEventCode": 140,
+                "enable": true,
+                "name": "Video Alarm",
+                "restore": false
+            }
+        }
+    },
+    "Zl": {
+        "category": "Schedule_type",
+        "name": "Schedules",
+        "type": {
+            "00-99": {
+                "CIDEventCode": 0,
+                "enable": false,
+                "name": "Numeric,XR150/350/550",
+                "restore": false
+            },
+            "PE": {
+                "CIDEventCode": 0,
+                "enable": false,
+                "name": "Permanent Schedule",
+                "restore": false
+            },
+            "PR": {
+                "CIDEventCode": 0,
+                "enable": false,
+                "name": "Primary Schedule",
+                "restore": false
+            },
+            "S1": {
+                "CIDEventCode": 0,
+                "enable": false,
+                "name": "Shift One",
+                "restore": false
+            },
+            "S2": {
+                "CIDEventCode": 0,
+                "enable": false,
+                "name": "Shift Two",
+                "restore": false
+            },
+            "S3": {
+                "CIDEventCode": 0,
+                "enable": false,
+                "name": "Shift Three",
+                "restore": false
+            },
+            "S4": {
+                "CIDEventCode": 0,
+                "enable": false,
+                "name": "Shift Four",
+                "restore": false
+            },
+            "SE": {
+                "CIDEventCode": 0,
+                "enable": false,
+                "name": "Secondary Schedule",
+                "restore": false
+            },
+            "TE": {
+                "CIDEventCode": 0,
+                "enable": false,
+                "name": "Temporary Schedule",
+                "restore": false
+            }
+        }
+    },
+    "Zm": {
+        "category": "Service_type",
+        "name": "Service Code",
+        "type": {
+            "SP": {
+                "CIDEventCode": 0,
+                "enable": false,
+                "name": "Stop Service User ",
+                "restore": false
+            },
+            "ST": {
+                "CIDEventCode": 0,
+                "enable": false,
+                "name": "Start Service User",
+                "restore": false
+            }
+        }
+    },
+    "Zn": {
+        "category": "lockdown_type",
+        "name": "Lockdown",
+        "type": {}
+    },
+    "Zq": {
+        "category": "Arming_type",
+        "name": "Arming Status",
+        "type": {
+            "CL": {
+                "CIDEventCode": 400,
+                "enable": true,
+                "name": "Area Armed",
+                "restore": true
+            },
+            "LA": {
+                "CIDEventCode": 0,
+                "enable": false,
+                "name": "Area Late to Arm",
+                "restore": false
+            },
+            "OP": {
+                "CIDEventCode": 400,
+                "enable": true,
+                "name": "Area Disarmed",
+                "restore": false
+            }
+        }
+    },
+    "Zr": {
+        "category": "Zone_type",
+        "name": "Zone Restore",
+        "type": {
+            "A1": {
+                "CIDEventCode": 140,
+                "enable": true,
+                "name": "Auxiliary 1",
+                "restore": true
+            },
+            "A2": {
+                "CIDEventCode": 140,
+                "enable": true,
+                "name": "Auxiliary 2",
+                "restore": true
+            },
+            "BL": {
+                "CIDEventCode": 140,
+                "enable": true,
+                "name": "Blank",
+                "restore": true
+            },
+            "BU": {
+                "CIDEventCode": 130,
+                "enable": true,
+                "name": "Burglary",
+                "restore": true
+            },
+            "CO": {
+                "CIDEventCode": 140,
+                "enable": true,
+                "name": "Carbon Monoxide",
+                "restore": true
+            },
+            "EM": {
+                "CIDEventCode": 100,
+                "enable": true,
+                "name": "Emergency",
+                "restore": true
+            },
+            "FI": {
+                "CIDEventCode": 110,
+                "enable": true,
+                "name": "Fire",
+                "restore": true
+            },
+            "PN": {
+                "CIDEventCode": 120,
+                "enable": true,
+                "name": "Panic",
+                "restore": true
+            },
+            "SV": {
+                "CIDEventCode": 150,
+                "enable": true,
+                "name": "Supervisory",
+                "restore": true
+            },
+            "VA": {
+                "CIDEventCode": 140,
+                "enable": true,
+                "name": "Video Alarm",
+                "restore": true
+            }
+        }
+    },
+    "Zs": {
+        "category": "System_type",
+        "name": "System Message",
+        "type": {}
+    },
+    "Zt": {
+        "category": "Zone_type",
+        "name": "Zone Trouble",
+        "type": {
+            "A1": {
+                "CIDEventCode": 140,
+                "enable": true,
+                "name": "Auxiliary 1",
+                "restore": false
+            },
+            "A2": {
+                "CIDEventCode": 140,
+                "enable": true,
+                "name": "Auxiliary 2",
+                "restore": false
+            },
+            "BL": {
+                "CIDEventCode": 140,
+                "enable": true,
+                "name": "Blank",
+                "restore": false
+            },
+            "BU": {
+                "CIDEventCode": 130,
+                "enable": true,
+                "name": "Burglary",
+                "restore": false
+            },
+            "CO": {
+                "CIDEventCode": 140,
+                "enable": true,
+                "name": "Carbon Monoxide",
+                "restore": false
+            },
+            "EM": {
+                "CIDEventCode": 100,
+                "enable": true,
+                "name": "Emergency",
+                "restore": false
+            },
+            "FI": {
+                "CIDEventCode": 110,
+                "enable": true,
+                "name": "Fire",
+                "restore": false
+            },
+            "PN": {
+                "CIDEventCode": 120,
+                "enable": true,
+                "name": "Panic",
+                "restore": false
+            },
+            "SV": {
+                "CIDEventCode": 150,
+                "enable": true,
+                "name": "Supervisory",
+                "restore": false
+            },
+            "VA": {
+                "CIDEventCode": 140,
+                "enable": true,
+                "name": "Video Alarm",
+                "restore": false
+            }
+        }
+    },
+    "Zu": {
+        "category": "User_type",
+        "name": "User Codes",
+        "type": {
+            "AD": {
+                "CIDEventCode": 0,
+                "enable": false,
+                "name": " User Code Added",
+                "restore": false
+            },
+            "CH": {
+                "CIDEventCode": 0,
+                "enable": false,
+                "name": " User Code Changed",
+                "restore": false
+            },
+            "DE": {
+                "CIDEventCode": 0,
+                "enable": false,
+                "name": " User Code Deleted",
+                "restore": false
+            },
+            "IN": {
+                "CIDEventCode": 0,
+                "enable": false,
+                "name": "User Code Inactive",
+                "restore": false
+            }
+        }
+    },
+    "Zw": {
+        "category": "Zone_type",
+        "name": "Zone Fault",
+        "type": {
+            "A1": {
+                "CIDEventCode": 140,
+                "enable": true,
+                "name": "Auxiliary 1",
+                "restore": false
+            },
+            "A2": {
+                "CIDEventCode": 140,
+                "enable": true,
+                "name": "Auxiliary 2",
+                "restore": false
+            },
+            "BL": {
+                "CIDEventCode": 140,
+                "enable": true,
+                "name": "Blank",
+                "restore": false
+            },
+            "BU": {
+                "CIDEventCode": 130,
+                "enable": true,
+                "name": "Burglary",
+                "restore": false
+            },
+            "CO": {
+                "CIDEventCode": 140,
+                "enable": true,
+                "name": "Carbon Monoxide",
+                "restore": false
+            },
+            "EM": {
+                "CIDEventCode": 100,
+                "enable": true,
+                "name": "Emergency",
+                "restore": false
+            },
+            "FI": {
+                "CIDEventCode": 110,
+                "enable": true,
+                "name": "Fire",
+                "restore": false
+            },
+            "PN": {
+                "CIDEventCode": 120,
+                "enable": true,
+                "name": "Panic",
+                "restore": false
+            },
+            "SV": {
+                "CIDEventCode": 150,
+                "enable": true,
+                "name": "Supervisory",
+                "restore": false
+            },
+            "VA": {
+                "CIDEventCode": 140,
+                "enable": true,
+                "name": "Video Alarm",
+                "restore": false
+            }
+        }
+    },
+    "Zx": {
+        "category": "Zone_type",
+        "name": "Zone Bypass",
+        "type": {
+            "A1": {
+                "CIDEventCode": 140,
+                "enable": true,
+                "name": "Auxiliary 1",
+                "restore": false
+            },
+            "A2": {
+                "CIDEventCode": 140,
+                "enable": true,
+                "name": "Auxiliary 2",
+                "restore": false
+            },
+            "BL": {
+                "CIDEventCode": 140,
+                "enable": true,
+                "name": "Blank",
+                "restore": false
+            },
+            "BU": {
+                "CIDEventCode": 130,
+                "enable": true,
+                "name": "Burglary",
+                "restore": false
+            },
+            "CO": {
+                "CIDEventCode": 140,
+                "enable": true,
+                "name": "Carbon Monoxide",
+                "restore": false
+            },
+            "EM": {
+                "CIDEventCode": 100,
+                "enable": true,
+                "name": "Emergency",
+                "restore": false
+            },
+            "FI": {
+                "CIDEventCode": 110,
+                "enable": true,
+                "name": "Fire",
+                "restore": false
+            },
+            "PN": {
+                "CIDEventCode": 120,
+                "enable": true,
+                "name": "Panic",
+                "restore": false
+            },
+            "SV": {
+                "CIDEventCode": 150,
+                "enable": true,
+                "name": "Supervisory",
+                "restore": false
+            },
+            "VA": {
+                "CIDEventCode": 140,
+                "enable": true,
+                "name": "Video Alarm",
+                "restore": false
+            }
+        }
+    },
+    "Zy": {
+        "category": "Zone_type",
+        "name": "Zone Reset",
+        "type": {
+            "A1": {
+                "CIDEventCode": 140,
+                "enable": true,
+                "name": "Auxiliary 1",
+                "restore": true
+            },
+            "A2": {
+                "CIDEventCode": 140,
+                "enable": true,
+                "name": "Auxiliary 2",
+                "restore": true
+            },
+            "BL": {
+                "CIDEventCode": 140,
+                "enable": true,
+                "name": "Blank",
+                "restore": true
+            },
+            "BU": {
+                "CIDEventCode": 130,
+                "enable": true,
+                "name": "Burglary",
+                "restore": true
+            },
+            "CO": {
+                "CIDEventCode": 140,
+                "enable": true,
+                "name": "Carbon Monoxide",
+                "restore": true
+            },
+            "EM": {
+                "CIDEventCode": 100,
+                "enable": true,
+                "name": "Emergency",
+                "restore": true
+            },
+            "FI": {
+                "CIDEventCode": 110,
+                "enable": true,
+                "name": "Fire",
+                "restore": true
+            },
+            "PN": {
+                "CIDEventCode": 120,
+                "enable": true,
+                "name": "Panic",
+                "restore": true
+            },
+            "SV": {
+                "CIDEventCode": 150,
+                "enable": true,
+                "name": "Supervisory",
+                "restore": true
+            },
+            "VA": {
+                "CIDEventCode": 140,
+                "enable": true,
+                "name": "Video Alarm",
+                "restore": true
+            }
+        }
+    },
+    "Zz": {
+        "category": "reserved_type",
+        "name": "Reserved",
+        "type": {}
+    }
+}
